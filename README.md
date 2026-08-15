@@ -38,3 +38,7 @@ Repeat this inside the specific lab folder you want to check.
 ## Notes
 
 This repository is organized as a coursework archive rather than one single application. Each subfolder should be treated as an independent exercise with its own source and test files.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
